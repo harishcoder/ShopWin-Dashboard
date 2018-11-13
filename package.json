@@ -1,0 +1,22 @@
+{
+  "name": "bootstrap_project",
+  "version": "1.0.0",
+  "description": "bootstrap projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "hari",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "4.0.0-beta",
+    "font-awesome": "^4.7.0",
+    "jquery": "^3.3.1",
+    "popper.js": "^1.14.3"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.24.6",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^4.0.1"
+  }
+}
